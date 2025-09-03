@@ -17,7 +17,9 @@
      * Who they are?
      * What they do
 * Typography
-  
+   * Fonts
+   *  Bold **Text**
+   *  Italic ***Text***
   
   
   
