@@ -6,6 +6,7 @@
 | [Organised website plan](ORGANISED_PLAN.md) |
 | [Audience](AUDIENCE.md) |
 | [LICENSE](LICENSE) |
+| [General Web Development Steps(No code)](GENERAL_STEPS.md) |
 ___
 # About!
 ___
