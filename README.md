@@ -12,5 +12,5 @@ ___
 This README repo was intended as a guide to create your website.
 This REPO was licensed under the MIT LICENSE.
 I hope it was helpfull for you and assists you into making a good website!
-Thanks :+1
+Thanks :+1:
 ___
