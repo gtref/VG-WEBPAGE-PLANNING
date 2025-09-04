@@ -7,6 +7,7 @@
 | [Audience](AUDIENCE.md) |
 | [LICENSE](LICENSE) |
 | [General Web Development Steps(No code)](GENERAL_STEPS.md) |
+| [GANT CHART for Development cycle](Screenshot 2025-09-05 105538.png)
 ___
 # About!
 ___
