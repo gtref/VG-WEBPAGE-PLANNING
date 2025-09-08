@@ -7,7 +7,7 @@
 | [Audience](AUDIENCE.md) |
 | [LICENSE](LICENSE) |
 | [General Web Development Steps(No code)](GENERAL_STEPS.md) |
-| [GANT CHART for Development cycle](Screenshot 2025-09-05 105538.png)
+
 ___
 # About!
 ___
@@ -16,3 +16,6 @@ This REPO was licensed under the MIT LICENSE.
 I hope it was helpfull for you and assists you into making a good website!
 Thanks :+1:
 ___
+# Example planing gant chatr below!
+
+[Gant chart](hh.png)
